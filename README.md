@@ -39,8 +39,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,github,python,javascript,firebase,cs,cpp,java" /><br>
     <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,mysql,html,css,php,vscode,sublime,figma,git,ai,ps" />
-
-
 </div>
 
 <br/>
@@ -49,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kanishkaviraj12/kanishkaviraj12/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
