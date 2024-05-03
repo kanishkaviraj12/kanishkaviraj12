@@ -41,6 +41,12 @@
     <img src="https://skillicons.dev/icons?i=dart,mysql,html,css,vscode,figma,git" />
 </div>
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,github,python,javascript,firebase,C#,C++,java" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,mysql,html,css,vscode,figma,git" />
+</div>
+
+
 <br/>
 <hr/>
 
